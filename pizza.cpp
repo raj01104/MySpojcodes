@@ -24,9 +24,8 @@ int main()
                 
             for(i=1; i<=1000; i++)
             {
-                //if( k[i]==1)
-                 // continue;
-                j=1;
+               
+                 j=1;
                 m=i-1;
                 for( ; j<=m ; j++, m--)
                 {
